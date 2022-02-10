@@ -1,0 +1,1 @@
+In the wplms template extend lms packages products likes repurchasing. In this plugin, if someone has purchased lms packages and wants to renew the product, it has different price and duration time to extend  the package.
